@@ -8,6 +8,4 @@ More recently, I’ve been focused on applying AI and intelligent automation to 
 
 I enjoy working at the intersection of product, systems design, and emerging AI technologies to solve complex problems at scal
 
-The main repo is **[ai-native-pm](https://github.com/laksh-letsinvent/ai-native-pm)**. Start with the [Anti-AI PM Writing Style guide](https://github.com/laksh-letsinvent/ai-native-pm/blob/main/frameworks/anti-ai-writing-style.md) — 15 patterns that make PM docs read like they were generated, and how to fix each one.
-
 [LinkedIn](https://www.linkedin.com/in/lakshayas) · laksh.letsinvent@gmail.com
